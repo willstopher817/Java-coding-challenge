@@ -29,7 +29,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OnePass">
+    <configuration name="OnePass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb2021.OnePass" />
+      <module name="Java-coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Feb2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Feb2021.TwoSum" />
       <module name="Java-coding-challenge" />
@@ -45,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnePass" />
         <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
@@ -59,7 +73,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614036469686</updated>
-      <workItem from="1614036499841" duration="5845000" />
+      <workItem from="1614036499841" duration="7757000" />
+      <workItem from="1614138213724" duration="1336000" />
+      <workItem from="1614175470467" duration="2380000" />
     </task>
     <servers />
   </component>
@@ -91,5 +107,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="267" y="332" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1614037811223" />
+    <state x="390" y="538" key="com.intellij.ide.util.TipDialog" timestamp="1614175474460">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="390" y="538" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1614175474460" />
   </component>
 </project>
